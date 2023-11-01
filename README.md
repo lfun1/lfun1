@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lfun1 or Lisa Fung.
-- 👀 I’m interested in tensor decomposition and its applications in geographic mobility and physics.
-- 🌱 I’m currently learning tensor decomposition techniques.
+- 👋 Hi, I’m @lfun1 or Lisa Fung, a freshman at Stanford University studying Computer Science and Mathematics.
+- 👀 I’m interested in probability theory, matrix theory, and tensor decompositions, as well as their applications in geographic human mobility and electrical grid systems.
+- 🌱 I’m currently learning the probability theory behind machine learning and tensor decomposition techniques. On the side, I'm soldering and designing small projects.
 - 💞️ I’m looking to collaborate on converting MATLAB tensor decomposition functions into open-source Python code.
 - 📫 How to reach me: email me at lisafung710@gmail.com.
 
