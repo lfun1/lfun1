@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lfun1 or Lisa Fung, a Computer Science & Mathematics student at Stanford University.
-- 🚀 I have multiple years of coding experience with Python, C++, and Java. I'm very familiar with optimized algorithms, advanced data structures, and machine learning.
+- 👋 Hi, I’m @lfun1 or Lisa Fung, a Computer Science student at Stanford University. I've interned at Cubist Systematic Strategies and Two Sigma Securities.
+- 🚀 I have multiple years of coding experience with C/C++ and Python. I'm very familiar with crafting and optimzing algorithms and data structures. I have studied and worked on applied and theoretical statistics, machine learning, and deep learning.
 - 🛠️ I’m working on machine learning for computer vision, embedded systems for radio/satellite communication, and data science for energy and geospatial risk predictions.
-- 🌱 I’m currently learning probability theory, matrix theory, and tensor decompositions, and exploring applications in electrical grid systems, smoke detection, and radio communication.
-- 📡 I’m leading a research project building radio sensor networks for sustainability and air quality sensing, and I'm open to potential collaborations.
+- 🌱 I’m currently learning about electrical grid systems and radio communication.
+- 📡 I’ve contributed to SMesh, a research project building air quality sensor networks for prescribed fires.
 - 📫 How to reach me: email me at lisafung@stanford.edu
 
 <!---
